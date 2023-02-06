@@ -16,7 +16,7 @@ This API allows for unit conversions to be made with the provided parameters.
     ```json
     {
     "type": "base",
-    "quantity": "length", 
+    "quantity": "Length", 
     "magnitude": "2.54",
     "unit_from": "cm",
     "unit_to": "in"
