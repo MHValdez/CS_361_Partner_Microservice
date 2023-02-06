@@ -1,13 +1,22 @@
 using UnitConversionMicroService.Models;
+using UnitConversionMicroService.Conversions;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapPost("/unitConversion", (Request request) =>
 {
-    var (type, quantity, magnitude, unit_from, unit_to) = request;
-    Response response = new(1.2, 1.5);
-    return Results.Ok(response);
+    try
+    {
+        var (type, quantity, magnitude, unit_from, unit_to) = request;
+        var converstionDictionary = ConverstionDictionaries.ConverstionDictionary[quantity];
+        var factor = converstionDictionary[unit_from] / converstionDictionary[unit_to];
+        return Results.Ok(new Response(factor * magnitude, factor));
+    }
+    catch (Exception ex)
+    {
+        return Results.BadRequest(ex.Message);
+    }
 });
 
 app.Run();
