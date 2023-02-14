@@ -24,3 +24,29 @@ C:\Users\chris\source\repos\UnitConversionMicroService\UnitConversionMicroServic
 C:\Users\chris\source\repos\UnitConversionMicroService\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.pdb
 C:\Users\chris\source\repos\UnitConversionMicroService\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.genruntimeconfig.cache
 C:\Users\chris\source\repos\UnitConversionMicroService\UnitConversionMicroService\obj\Debug\net7.0\ref\UnitConversionMicroService.dll
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\appsettings.Development.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\appsettings.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\UnitConversionMicroService.exe
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\UnitConversionMicroService.deps.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\UnitConversionMicroService.runtimeconfig.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\UnitConversionMicroService.dll
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\bin\Debug\net7.0\UnitConversionMicroService.pdb
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.csproj.AssemblyReference.cache
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.AssemblyInfoInputs.cache
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.AssemblyInfo.cs
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.csproj.CoreCompileInputs.cache
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets\msbuild.UnitConversionMicroService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets\msbuild.build.UnitConversionMicroService.props
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UnitConversionMicroService.props
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UnitConversionMicroService.props
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets.build.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\staticwebassets.development.json
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\scopedcss\bundle\UnitConversionMicroService.styles.css
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.dll
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\refint\UnitConversionMicroService.dll
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.pdb
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\UnitConversionMicroService.genruntimeconfig.cache
+D:\Computer Science\CS361\Project\converter_microservice\CS_361_Partner_Microservice\UnitConversionMicroService\obj\Debug\net7.0\ref\UnitConversionMicroService.dll

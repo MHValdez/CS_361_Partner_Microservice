@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chris\\.nuget\\packages\\": {}
+    "C:\\Users\\valde\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\UnitConversionMicroService\\UnitConversionMicroService\\UnitConversionMicroService.csproj",
+      "projectUniqueName": "D:\\Computer Science\\CS361\\Project\\converter_microservice\\CS_361_Partner_Microservice\\UnitConversionMicroService\\UnitConversionMicroService.csproj",
       "projectName": "UnitConversionMicroService",
-      "projectPath": "C:\\Users\\chris\\source\\repos\\UnitConversionMicroService\\UnitConversionMicroService\\UnitConversionMicroService.csproj",
-      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\source\\repos\\UnitConversionMicroService\\UnitConversionMicroService\\obj\\",
+      "projectPath": "D:\\Computer Science\\CS361\\Project\\converter_microservice\\CS_361_Partner_Microservice\\UnitConversionMicroService\\UnitConversionMicroService.csproj",
+      "packagesPath": "C:\\Users\\valde\\.nuget\\packages\\",
+      "outputPath": "D:\\Computer Science\\CS361\\Project\\converter_microservice\\CS_361_Partner_Microservice\\UnitConversionMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\valde\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
