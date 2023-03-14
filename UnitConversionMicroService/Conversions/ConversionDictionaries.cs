@@ -60,10 +60,11 @@ public class ConverstionDictionaries
         { "Speed",
             new Dictionary<string, double>
             {
-                { "feet per second",      3.28084 },
-                { "miles per hour",       2.236936 },
+                { "feet per second",      0.3048 },
+                { "miles per hour",       0.44704 },
+                { "knots",                0.5144444 },
                 { "meters per second",    1 },
-                { "kilometers per hour",  3.6 }
+                { "kilometers per hour",  0.2777778 }
             }
         }
     };
